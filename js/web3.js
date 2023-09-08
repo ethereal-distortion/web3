@@ -12,5 +12,3 @@ function addTask(){
     }
     inputBox.value = "";
 }
-
-console.log("This is a test to make sure the js file is attached.");
